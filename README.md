@@ -56,3 +56,5 @@ A **Multithreaded Chat API** is a robust and essential architecture for building
 
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/f714ffc2-cc29-4f27-a7af-d01f48359baa)
+
+![Image](https://github.com/user-attachments/assets/5b7ccc3e-db48-41b3-ab05-00151b23ac91)
