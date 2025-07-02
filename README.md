@@ -54,3 +54,7 @@ A typical multithreaded chat system involves the following components:
 ### **Conclusion**
 A **Multithreaded Chat API** is a robust and essential architecture for building scalable and real-time communication systems. By using multithreading, developers can ensure that their chat applications provide a seamless and responsive experience for users, even under heavy loads. Understanding its components, benefits, and potential pitfalls is crucial for anyone aiming to build or maintain such systems.
 
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/7af8325e-4d6d-47b5-803a-9662005f82e5)
+
+![Image](https://github.com/user-attachments/assets/db2095c5-bb45-4d69-a7d6-3ef88d1594a4)
